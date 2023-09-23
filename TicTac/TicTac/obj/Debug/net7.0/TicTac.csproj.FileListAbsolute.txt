@@ -1,0 +1,14 @@
+C:\Users\mdari\RiderProjects\TicTac\TicTac\bin\Debug\net7.0\TicTac.exe
+C:\Users\mdari\RiderProjects\TicTac\TicTac\bin\Debug\net7.0\TicTac.deps.json
+C:\Users\mdari\RiderProjects\TicTac\TicTac\bin\Debug\net7.0\TicTac.runtimeconfig.json
+C:\Users\mdari\RiderProjects\TicTac\TicTac\bin\Debug\net7.0\TicTac.dll
+C:\Users\mdari\RiderProjects\TicTac\TicTac\bin\Debug\net7.0\TicTac.pdb
+C:\Users\mdari\RiderProjects\TicTac\TicTac\obj\Debug\net7.0\TicTac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdari\RiderProjects\TicTac\TicTac\obj\Debug\net7.0\TicTac.AssemblyInfoInputs.cache
+C:\Users\mdari\RiderProjects\TicTac\TicTac\obj\Debug\net7.0\TicTac.AssemblyInfo.cs
+C:\Users\mdari\RiderProjects\TicTac\TicTac\obj\Debug\net7.0\TicTac.csproj.CoreCompileInputs.cache
+C:\Users\mdari\RiderProjects\TicTac\TicTac\obj\Debug\net7.0\TicTac.dll
+C:\Users\mdari\RiderProjects\TicTac\TicTac\obj\Debug\net7.0\refint\TicTac.dll
+C:\Users\mdari\RiderProjects\TicTac\TicTac\obj\Debug\net7.0\TicTac.pdb
+C:\Users\mdari\RiderProjects\TicTac\TicTac\obj\Debug\net7.0\TicTac.genruntimeconfig.cache
+C:\Users\mdari\RiderProjects\TicTac\TicTac\obj\Debug\net7.0\ref\TicTac.dll
